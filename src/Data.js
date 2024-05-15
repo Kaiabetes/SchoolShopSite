@@ -1,9 +1,9 @@
 let shopItemsData = [
   {
     id: "ytfdjgcm",
-    name: "Desktop Computers",
-    price: 319.99,
-    desc: "Brand new minted edition state of the art computer set. <br> Includes: <br> - State of the art derek style monitor <br> - Keyboard <br> - Mouse with a dell OS.",
+    name: "Test",
+    price: 8.99,
+    desc: "These <br> Includes: <br> - State of the art derek style monitor <br> - Keyboard <br> - Mouse with a dell OS.",
     img: "images/desktop.jpg",
   },
   {
