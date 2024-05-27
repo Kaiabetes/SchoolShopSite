@@ -7,6 +7,62 @@ body {
     background-size: cover;
 }
 
+.footer-container {
+    display: flex; flex-direction: row;
+    justify-content: space-between;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #1a1a1a;
+    color: white;
+}
+
+.col-1 {
+    margin: 25px 200px;
+}
+
+.col-1 h1{
+    margin-top: 40%;
+}
+
+.col-2 {
+    margin: 25px 25px; 
+    
+}
+
+.facebook-username {
+    padding-left: 50px;
+    margin-top: -2rem;
+}
+
+.instagram-username {
+    padding-left: 50px;
+    margin-top: -2.2rem;
+}
+
+.col-3 {
+    margin: 25px 200px;
+}
+
+.form-input{
+    border-radius: 50px;
+    border: none;
+    height: 2px;
+    width: 200px;
+    padding: 15px;
+}
+
+.subscribe-button {
+    background-color: #f34500;
+    border: none;
+    padding: 12px;
+    width: 100px;
+    border-radius: 5px;
+    cursor: pointer; 
+    color: #fff;
+    font-weight: 600;
+}
+
 .container {
     display: flex;
     justify-content: flex-start;
